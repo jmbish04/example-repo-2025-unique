@@ -1,2 +1,1 @@
-# example-repo-2025-unique
-A uniquely named example repository created via API
+IyBleGFtcGxlLXJlcG8tMjAyNS11bmlxdWUKClRoaXMgaXMgYSB0ZXN0IFJFQURNRSBmaWxlIGZvciB0aGUgcmVwby4K
